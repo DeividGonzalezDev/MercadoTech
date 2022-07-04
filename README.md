@@ -1,6 +1,6 @@
 # MercadoTech
 
-Florencia Bicca
+Florencia Bicca =)!!
 Cynthia Rocha
 Gaston Pazos
 Deivid Gonzalez
