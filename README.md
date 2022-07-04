@@ -1,6 +1,13 @@
 # MercadoTech
 
+<<<<<<< HEAD
 Florencia Bicca =)!!
 Cynthia Rocha
+=======
+Florencia Bicca
+Cynthia RochaD
+
 Gaston Pazos
-Deivid Gonzalez
+Deivid Gonzalez: ​​👨‍💻​​​​​🚀​
+Gaston Pazos :smile:
+
