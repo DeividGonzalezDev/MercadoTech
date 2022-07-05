@@ -1,6 +1,8 @@
 # MercadoTech
 
 Florencia Bicca
-Cynthia Rocha
+Cynthia RochaD
 Gaston Pazos
-Deivid Gonzalez ​​👨‍💻​​​​​🚀​
+Deivid Gonzalez: ​​👨‍💻​​​​​🚀​
+Gaston Pazos :smile:
+
