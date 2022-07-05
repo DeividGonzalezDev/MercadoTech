@@ -1,7 +1,8 @@
 # MercadoTech
 ***Protocolos***
 njsdl cJNfp'k lewskl
-!(https://www.profesionalreview.com/2020/03/21/protocolo-tcp-ip/)
+![img](https://www.profesionalreview.com/wp-content/uploads/2020/02/protocolo-TCP-IP-04.pn
+g)
 =======
 Florencia Bicca
 Cynthia Rocha D
